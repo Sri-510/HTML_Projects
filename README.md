@@ -1,2 +1,3 @@
 # HTML_Projects
-HTML Practice project
+HTML Practice project 
+This is my HTML /git practice
